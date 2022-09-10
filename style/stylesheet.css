@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(#fcf5f8, #edeaf8, #eaf3fc,#dae8fa, #eaf3fc, #edeaf8, #fcf5f8);
+    height: auto;
+}
+
+div.main_title {
+    /* border: 1px solid gray; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 98%;
+    height: 400px;
+    margin: 90px auto;
+}
+
+.coll-1, .coll-2 {
+    height: 399px;
+    margin: 0;
+}
+.coll-2 {
+    width: 70%;
+    background-color: #fcf5f8;
+}
+.coll-1 {
+    width: 30%;
+}
