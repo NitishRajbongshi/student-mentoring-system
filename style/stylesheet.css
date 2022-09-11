@@ -65,9 +65,12 @@ img.banner {
     height: 100%;
 }
 
+footer {
+    margin-bottom: 12px;
+}
+
 footer p {
     color: gray;
-    margin-bottom: 0;
     text-align: center;
 }
 
